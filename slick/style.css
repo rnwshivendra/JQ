@@ -1,0 +1,33 @@
+body{
+    margin: 10px;
+    padding: 100px;
+   
+}
+*{
+    box-sizing: border-box;
+}
+
+.single-item{
+   
+}
+
+.slick-slide{
+    padding: 10px;
+    border: 1px solid #000;
+    width: 300px !important;
+    height: 300px !important;
+    object-fit: cover !important;
+    object-position: center !important;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.slick-arrow{
+    background-color: red !important;
+    border-radius: 12px;
+}
