@@ -1,0 +1,10 @@
+#main{
+    display: flex;
+    margin: 5px;
+    padding: 10px;
+}
+
+
+#sidebar>button{
+    display: block;
+}
